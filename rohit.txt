@@ -1,0 +1,5 @@
+import java.io
+{
+printf("add two no.");
+printf("a+b");
+}
